@@ -7,12 +7,13 @@
  <img title="S-H4CK13" src='https://img.shields.io/badge/-windows-F16061?logo=windows&logoColor=000'/>
  <img title="S-H4CK13" src='https://img.shields.io/badge/-Linux-F16061?logo=Linux&logoColor=000'/>
 </p>
- 
+
 # 前言
 
 ![S-H4CK13](./Temp_github_demo/Maptnh.jpg)
 
 ![S-H4CK13](./Temp_github_demo/config.png)
+
 * 相比较上一个版本安全性匿名性大幅度上升,采用去中心化控制。
 * 也将意味着每一个Server即是服务端也是客户端,并且新增Root根服务器
 * 在环形网络中,流量全部进行加密,匿名者通过控制设备时,将不断通过服务器之间跳转来防溯源
@@ -612,9 +613,9 @@ S-Clustr(V1.0.0)> set key cf5cdc4798a72283a4c0c0b1ef2ef5da
 
 ```
 S-Clustr(V1.0.0)> set id 0
-[*] id => 0 
+[*] id => 0
 S-Clustr(V1.0.0)> set pwr 3
-[*] pwr => 3 
+[*] pwr => 3
 S-Clustr(V1.0.0)> run
 [*] Connecting to the server...
 [*] Attempting to authenticate to the server [127.0.0.1:9999]
@@ -667,7 +668,7 @@ S-Clustr(V1.0.0)> run
 
 ```
 S-Clustr(V1.0.0)> set id 0
-[*] id => 0 
+[*] id => 0
 S-Clustr(V1.0.0)> set pwr 2
 [*] pwr => 2
 S-Clustr(V1.0.0)> run
